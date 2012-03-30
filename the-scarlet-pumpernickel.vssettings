@@ -2205,7 +2205,7 @@
 							<Item Name="Breakpoint (Enabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="Yes"/>
 							<Item Name="Collapsible Text" Foreground="0x00C0C0C0" Background="0x00000003" BoldFont="Yes"/>
 							<Item Name="outlining.collapsehintadornment" Foreground="0x00E8DDD7" Background="0x004B555D" BoldFont="No"/>
-							<Item Name="Comment" Foreground="0x00285564" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="Comment" Foreground="0x00357286" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="Compiler Error" Foreground="0x0026C1E8" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="CSS Comment" Foreground="0x00285564" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="CSS Keyword" Foreground="0x00BEF4FC" Background="0x02000000" BoldFont="Yes"/>
