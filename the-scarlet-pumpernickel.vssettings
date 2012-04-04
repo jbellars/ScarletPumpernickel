@@ -2201,7 +2201,7 @@
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Indicator Margin" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Line Numbers" Foreground="0x00AC6A51" Background="0x02000000" BoldFont="No"/>
-							<Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x00C71639" BoldFont="Yes"/>
 							<Item Name="Breakpoint (Enabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="Yes"/>
 							<Item Name="Collapsible Text" Foreground="0x00C0C0C0" Background="0x00000003" BoldFont="Yes"/>
 							<Item Name="outlining.collapsehintadornment" Foreground="0x00E8DDD7" Background="0x004B555D" BoldFont="No"/>
