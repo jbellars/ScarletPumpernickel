@@ -961,6 +961,86 @@
 			<PropertyValue name="SelectedScope">{B1BA9461-FC54-45B3-A484-CB6DD0B95C94}</PropertyValue>
 			<PropertyValue name="SelectedScopeSubScope">0</PropertyValue>
 		</Category>
+		<Category name="Environment_FontsAndColors" Category="{1EDA5DD4-927A-43a7-810E-7FD247D0DA1D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_FontsAndColors" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="Version">2</PropertyValue>
+			<FontsAndColors Version="2.0">
+				<Categories>
+					<Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Plain Text" Foreground="0x00C0C0C0" Background="0x00202020" BoldFont="Yes"/>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x00AC6A51" BoldFont="No"/>
+							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Indicator Margin" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Line Numbers" Foreground="0x00AC6A51" Background="0x02000000" BoldFont="No"/>
+							<Item Name="AutoBraceEndingPointColor" Foreground="0x02000000" Background="0x009B812F" BoldFont="No"/>
+							<Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x00C71639" BoldFont="Yes"/>
+							<Item Name="Breakpoint (Enabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="Yes"/>
+							<Item Name="Collapsible Text" Foreground="0x00C0C0C0" Background="0x00000003" BoldFont="Yes"/>
+							<Item Name="outlining.collapsehintadornment" Foreground="0x00E8DDD7" Background="0x004B555D" BoldFont="No"/>
+							<Item Name="Comment" Foreground="0x00535353" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="Compiler Error" Foreground="0x0026C1E8" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="CSS Comment" Foreground="0x00285564" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="CSS Keyword" Foreground="0x00BEF4FC" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="CSS Property Name" Foreground="0x00BEF4FC" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="CSS Property Value" Foreground="0x02000000" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="CSS Selector" Foreground="0x00BEF4FC" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="CSS String Value" Foreground="0x003A49D9" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="CurrentLineFormat" Foreground="0x02000000" Background="0x00AC6A51" BoldFont="No"/>
+							<Item Name="CurrentLineInactiveFormat" Foreground="0x02000000" Background="0x00AC6A51" BoldFont="No"/>
+							<Item Name="Current Statement" Foreground="0x00000000" Background="0x0064BCE8" BoldFont="No"/>
+							<Item Name="Excluded Code" Foreground="0x00808080" Background="0x02000000" BoldFont="No"/>
+							<Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x02000000" Background="0x00638375" BoldFont="No"/>
+							<Item Name="HTML Attribute" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="HTML Attribute Value" Foreground="0x005CC2A5" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="HTML Comment" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="HTML Element Name" Foreground="0x0064BCE8" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="HTML Entity" Foreground="0x0000000C" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="HTML Operator" Foreground="0x02000000" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="HTML Server-Side Script" Foreground="0x00BB9768" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="HTML Tag Delimiter" Foreground="0x02000000" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="Identifier" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="Keyword" Foreground="0x003278CC" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="Number" Foreground="0x00BB9768" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="Preprocessor Keyword" Foreground="0x003248DA" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="Razor Code" Foreground="0x02000000" Background="0x004A5354" BoldFont="No"/>
+							<Item Name="Script Comment" Foreground="0x00285564" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script Keyword" Foreground="0x003278CC" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script String" Foreground="0x005CC2A5" Background="0x02000000" BoldFont="No"/>
+							<Item Name="String" Foreground="0x005CC2A5" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="Syntax Error" Foreground="0x000000FF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="urlformat" Foreground="0x00A83D34" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="User Types" Foreground="0x006DC6FF" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="User Types(Delegates)" Foreground="0x00BB9768" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="User Types(Enums)" Foreground="0x00BB9768" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="User Types(Interfaces)" Foreground="0x00BB9768" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="User Types(Value types)" Foreground="0x00BB9768" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="Warning" Foreground="0x00008000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Attribute" Foreground="0x0064BCE8" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XAML Attribute Quotes" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Attribute Value" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XAML CData Section" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Comment" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XAML Delimiter" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XAML Markup Extension Class" Foreground="0x003248DA" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XAML Markup Extension Parameter Name" Foreground="0x003248DA" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XAML Markup Extension Parameter Value" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Name" Foreground="0x0064BCE8" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XAML Text" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XML Attribute" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XML Attribute Quotes" Foreground="0x02000000" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XML Attribute Value" Foreground="0x005CC2A5" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XML CData Section" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XML Comment" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XML Delimiter" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XML Doc Comment" Foreground="0x00535353" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XML Doc Tag" Foreground="0x00414141" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XML Name" Foreground="0x003278CC" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XML Text" Foreground="0x02000000" Background="0x02000000" BoldFont="Yes"/>
+						</Items>
+					</Category>
+				</Categories>
+			</FontsAndColors>
+		</Category>
 		<Category name="Environment_KeyBindings" Category="{F09035F1-80D2-4312-8EC4-4D354A4BCB4C}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_KeyBindings" PackageName="Visual Studio Environment Package">
 			<Version>10.0.0.0</Version>
 			<KeyboardShortcuts>
@@ -1380,7 +1460,23 @@
 			<PropertyValue name="DeletedItem3.Name">Pointer</PropertyValue>
 			<PropertyValue name="DeletedItem3.TabID"/>
 			<PropertyValue name="DeletedItem3.Tab">WF4Chapter01</PropertyValue>
-			<PropertyValue name="DeletedItemCount">4</PropertyValue>
+			<PropertyValue name="DeletedItem4.ID">Pointer</PropertyValue>
+			<PropertyValue name="DeletedItem4.Name">Pointer</PropertyValue>
+			<PropertyValue name="DeletedItem4.TabID">General</PropertyValue>
+			<PropertyValue name="DeletedItem4.Tab">General</PropertyValue>
+			<PropertyValue name="DeletedItem5.ID">Pointer</PropertyValue>
+			<PropertyValue name="DeletedItem5.Name">Pointer</PropertyValue>
+			<PropertyValue name="DeletedItem5.TabID"/>
+			<PropertyValue name="DeletedItem5.Tab">OfficeLinkWeb Components</PropertyValue>
+			<PropertyValue name="DeletedItem6.ID">Pointer</PropertyValue>
+			<PropertyValue name="DeletedItem6.Name">Pointer</PropertyValue>
+			<PropertyValue name="DeletedItem6.TabID"/>
+			<PropertyValue name="DeletedItem6.Tab">WFChapter03</PropertyValue>
+			<PropertyValue name="DeletedItem7.ID">Pointer</PropertyValue>
+			<PropertyValue name="DeletedItem7.Name">Pointer</PropertyValue>
+			<PropertyValue name="DeletedItem7.TabID"/>
+			<PropertyValue name="DeletedItem7.Tab">WFChapter03</PropertyValue>
+			<PropertyValue name="DeletedItemCount">8</PropertyValue>
 			<PropertyValue name="Item0.DataProvider">{00000000-0000-0000-0000-000000000000}</PropertyValue>
 			<PropertyValue name="Item0.ID">Microsoft.Office.Tools.Ribbon.RibbonBoxImpl, Microsoft.Office.Tools.Common.Implementation, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</PropertyValue>
 			<PropertyValue name="Item0.Name">Box</PropertyValue>
@@ -1630,7 +1726,7 @@
 									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}" DockedHeight="316" FloatingTop="576" FloatingLeft="102.4" FloatingHeight="192" FloatingWidth="614.4"/>
 									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}" DockedHeight="316" FloatingTop="576" FloatingLeft="102.4" FloatingHeight="192" FloatingWidth="614.4"/>
 									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}" DockedHeight="316" FloatingTop="576" FloatingLeft="102.4" FloatingHeight="192" FloatingWidth="614.4"/>
-									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{588470cc-84f8-4a57-9ac4-86bca0625ff4}" DockedHeight="316" FloatingTop="576" FloatingLeft="102.4" FloatingHeight="192" FloatingWidth="614.4"/>
+									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" IconIndex="5" IconResourceID="6651" IconResourcePackage="da9fb551-c724-11d0-ae1f-00a0c90fffc3" Name="ST:0:0:{588470cc-84f8-4a57-9ac4-86bca0625ff4}" IsVisible="True" DockedHeight="316" FloatingTop="576" FloatingLeft="102.4" FloatingHeight="192" FloatingWidth="614.4"/>
 									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{5415ea3a-d813-4948-b51e-562082ce0887}" DockedHeight="316" FloatingTop="576" FloatingLeft="102.4" FloatingHeight="192" FloatingWidth="614.4"/>
 									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" IconIndex="3" IconResourceID="6650" IconResourcePackage="da9fb551-c724-11d0-ae1f-00a0c90fffc3" Name="ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}" IsVisible="True" DockedHeight="316" FloatingTop="576" FloatingLeft="102.4" FloatingHeight="192" FloatingWidth="614.4"/>
 									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}" DockedHeight="316" FloatingTop="576" FloatingLeft="102.4" FloatingHeight="192" FloatingWidth="614.4"/>
@@ -1722,7 +1818,7 @@
 									<TabGroup IsVisible="True" DockedWidth="264">
 										<wm:ToolWindowView ForceCreate="ForceCreate" IconIndex="0" IconResourceID="105" IconResourcePackage="8889e051-b7f9-4781-bb33-2a36a9bdb3a5" Name="ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}" DockedWidth="264" FloatingTop="100" FloatingLeft="100" FloatingHeight="395" FloatingWidth="247"/>
 										<wm:ToolWindowView ForceCreate="ForceCreate" IconIndex="0" IconResourceID="1001" IconResourcePackage="20aaf8fa-14c0-4897-8ca0-4d861e2b1212" Name="ST:0:0:{dd1ddd20-d59b-11da-a94d-0800200c9a66}" DockedWidth="264" FloatingTop="200" FloatingLeft="200" FloatingHeight="395" FloatingWidth="247"/>
-										<wm:ToolWindowView OnTopWhenLastInContext="False" ContextVisibilityEnabled="False" ForceCreate="ForceCreate" IconIndex="2" IconResourceID="301" IconResourcePackage="cf6a5c16-83b0-4d04-b702-195c35c6e887" Name="ST:0:0:{81b8bf68-15eb-4fbd-85e7-455b191f316b}" DockedWidth="264" FloatingTop="96" FloatingLeft="1656" FloatingHeight="395" FloatingWidth="247"/>
+										<wm:ToolWindowView OnTopWhenLastInContext="False" ForceCreate="ForceCreate" IconIndex="2" IconResourceID="301" IconResourcePackage="cf6a5c16-83b0-4d04-b702-195c35c6e887" Name="ST:0:0:{81b8bf68-15eb-4fbd-85e7-455b191f316b}" IsVisible="True" DockedWidth="264" FloatingTop="96" FloatingLeft="1656" FloatingHeight="395" FloatingWidth="247"/>
 										<wm:ToolWindowView ForceCreate="ForceCreate" IconIndex="2" IconResourceID="6650" IconResourcePackage="da9fb551-c724-11d0-ae1f-00a0c90fffc3" Name="ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}" IsSelected="True" IsVisible="True" DockedWidth="264" FloatingTop="44" FloatingLeft="1709" FloatingHeight="1029" FloatingWidth="397"/>
 										<wm:ToolWindowView ForceCreate="ForceCreate" IconIndex="0" IconResourceID="2" IconResourcePackage="8e01ec3e-2928-4aa5-b720-e28c163818e6" Name="ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}" IsVisible="True" DockedWidth="264" FloatingTop="96" FloatingLeft="1656" FloatingHeight="395" FloatingWidth="247"/>
 										<wm:ToolWindowView ForceCreate="ForceCreate" IconIndex="0" IconResourceID="6651" IconResourcePackage="da9fb551-c724-11d0-ae1f-00a0c90fffc3" Name="ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}" IsVisible="True" DockedWidth="264" FloatingTop="96" FloatingLeft="1656" FloatingHeight="395" FloatingWidth="247"/>
@@ -1734,7 +1830,7 @@
 										<wm:ToolWindowView ContextVisibilityEnabled="False" Name="ST:0:0:{4a791147-19e4-11d3-b86b-00c04f79f802}" DockedWidth="264" FloatingTop="76.8" FloatingLeft="819.2" FloatingHeight="395" FloatingWidth="247"/>
 										<wm:ToolWindowView ContextVisibilityEnabled="False" Name="ST:0:0:{73f6dd58-437e-11d3-b88e-00c04f79f802}" DockedWidth="264" FloatingTop="76.8" FloatingLeft="819.2" FloatingHeight="395" FloatingWidth="247"/>
 										<wm:ToolWindowView ContextVisibilityEnabled="False" Name="ST:0:0:{57dc5d59-11c2-4955-a7b4-d7699d677e93}" DockedWidth="264" FloatingTop="76.8" FloatingLeft="819.2" FloatingHeight="395" FloatingWidth="247"/>
-										<wm:ToolWindowView OnTopWhenLastInContext="False" ForceCreate="ForceCreate" IconIndex="1" IconResourceID="6650" IconResourcePackage="da9fb551-c724-11d0-ae1f-00a0c90fffc3" Name="ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}" IsVisible="True" DockedWidth="264" AutoHideWidth="280" FloatingTop="76.8" FloatingLeft="819.2" FloatingHeight="384" FloatingWidth="204.8"/>
+										<ViewBookmark Name="ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}" DockedWidth="264"/>
 										<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{66dba47c-61df-11d2-aa79-00c04f990343}" DockedWidth="264" FloatingTop="76.8" FloatingLeft="819.2" FloatingHeight="384" FloatingWidth="204.8"/>
 									</TabGroup>
 								</DockGroup>
@@ -1832,6 +1928,9 @@
 							<ViewBookmark Name="ST:0:0:{73f6dd58-437e-11d3-b88e-00c04f79f802}" AccessOrder="1" ViewBookmarkType="Raft" FloatingHeight="1029" FloatingWidth="397"/>
 							<ViewBookmark Name="ST:0:0:{57dc5d59-11c2-4955-a7b4-d7699d677e93}" AccessOrder="1" ViewBookmarkType="Raft" FloatingHeight="1029" FloatingWidth="397"/>
 						</TabGroup>
+					</FloatSite>
+					<FloatSite IsVisible="True" FloatingTop="550" FloatingLeft="1647" FloatingHeight="538" FloatingWidth="270">
+						<wm:ToolWindowView ForceCreate="ForceCreate" IconIndex="1" IconResourceID="6650" IconResourcePackage="da9fb551-c724-11d0-ae1f-00a0c90fffc3" Name="ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}" IsSelected="True" IsVisible="True" DockedWidth="264" AutoHideWidth="280" FloatingTop="550" FloatingLeft="1647" FloatingHeight="538" FloatingWidth="270"/>
 					</FloatSite>
 				</WindowProfile>
 			</Design>
@@ -2189,85 +2288,6 @@
 					</FloatSite>
 				</WindowProfile>
 			</NoToolWin>
-		</Category>
-		<Category name="Environment_FontsAndColors" Category="{1EDA5DD4-927A-43a7-810E-7FD247D0DA1D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_FontsAndColors" PackageName="Visual Studio Environment Package">
-			<PropertyValue name="Version">2</PropertyValue>
-			<FontsAndColors Version="2.0">
-				<Categories>
-					<Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontIsDefault="Yes">
-						<Items>
-							<Item Name="Plain Text" Foreground="0x00C0C0C0" Background="0x00202020" BoldFont="Yes"/>
-							<Item Name="Selected Text" Foreground="0x02000000" Background="0x00AC6A51" BoldFont="No"/>
-							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
-							<Item Name="Indicator Margin" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
-							<Item Name="Line Numbers" Foreground="0x00AC6A51" Background="0x02000000" BoldFont="No"/>
-							<Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x00C71639" BoldFont="Yes"/>
-							<Item Name="Breakpoint (Enabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="Yes"/>
-							<Item Name="Collapsible Text" Foreground="0x00C0C0C0" Background="0x00000003" BoldFont="Yes"/>
-							<Item Name="outlining.collapsehintadornment" Foreground="0x00E8DDD7" Background="0x004B555D" BoldFont="No"/>
-							<Item Name="Comment" Foreground="0x00357286" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="Compiler Error" Foreground="0x0026C1E8" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="CSS Comment" Foreground="0x00285564" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="CSS Keyword" Foreground="0x00BEF4FC" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="CSS Property Name" Foreground="0x00BEF4FC" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="CSS Property Value" Foreground="0x02000000" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="CSS Selector" Foreground="0x00BEF4FC" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="CSS String Value" Foreground="0x003A49D9" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="CurrentLineFormat" Foreground="0x02000000" Background="0x00AC6A51" BoldFont="No"/>
-							<Item Name="CurrentLineInactiveFormat" Foreground="0x02000000" Background="0x00AC6A51" BoldFont="No"/>
-							<Item Name="Current Statement" Foreground="0x00000000" Background="0x0064BCE8" BoldFont="No"/>
-							<Item Name="Excluded Code" Foreground="0x00808080" Background="0x02000000" BoldFont="No"/>
-							<Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x02000000" Background="0x00638375" BoldFont="No"/>
-							<Item Name="HTML Attribute" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="HTML Attribute Value" Foreground="0x005CC2A5" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="HTML Comment" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="HTML Element Name" Foreground="0x0064BCE8" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="HTML Entity" Foreground="0x0000000C" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="HTML Operator" Foreground="0x02000000" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="HTML Server-Side Script" Foreground="0x00BB9768" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="HTML Tag Delimiter" Foreground="0x02000000" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="Identifier" Foreground="0x02000000" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="Keyword" Foreground="0x003278CC" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="Number" Foreground="0x00BB9768" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="Preprocessor Keyword" Foreground="0x003248DA" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="Razor Code" Foreground="0x02000000" Background="0x004A5354" BoldFont="No"/>
-							<Item Name="Script Comment" Foreground="0x00285564" Background="0x02000000" BoldFont="No"/>
-							<Item Name="Script Keyword" Foreground="0x003278CC" Background="0x02000000" BoldFont="No"/>
-							<Item Name="Script String" Foreground="0x005CC2A5" Background="0x02000000" BoldFont="No"/>
-							<Item Name="String" Foreground="0x005CC2A5" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="Syntax Error" Foreground="0x000000FF" Background="0x02000000" BoldFont="No"/>
-							<Item Name="urlformat" Foreground="0x00A83D34" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="User Types" Foreground="0x006DC6FF" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="User Types(Delegates)" Foreground="0x00BB9768" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="User Types(Enums)" Foreground="0x00BB9768" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="User Types(Interfaces)" Foreground="0x00BB9768" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="User Types(Value types)" Foreground="0x00BB9768" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="Warning" Foreground="0x00008000" Background="0x02000000" BoldFont="No"/>
-							<Item Name="XAML Attribute" Foreground="0x0064BCE8" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="XAML Attribute Quotes" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
-							<Item Name="XAML Attribute Value" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="XAML CData Section" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="No"/>
-							<Item Name="XAML Comment" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="XAML Delimiter" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="XAML Markup Extension Class" Foreground="0x003248DA" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="XAML Markup Extension Parameter Name" Foreground="0x003248DA" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="XAML Markup Extension Parameter Value" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
-							<Item Name="XAML Name" Foreground="0x0064BCE8" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="XAML Text" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="XML Attribute" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="XML Attribute Quotes" Foreground="0x02000000" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="XML Attribute Value" Foreground="0x005CC2A5" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="XML CData Section" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="XML Comment" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="XML Delimiter" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="XML Doc Comment" Foreground="0x000A0A0A" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="XML Doc Tag" Foreground="0x0000000B" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="XML Name" Foreground="0x003278CC" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="XML Text" Foreground="0x02000000" Background="0x02000000" BoldFont="Yes"/>
-						</Items>
-					</Category>
-				</Categories>
-			</FontsAndColors>
 		</Category>
 	</Category>
 	<Category name="Database Tools" RegisteredName="Database Tools">
